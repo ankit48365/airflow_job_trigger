@@ -13,7 +13,7 @@ OUTPUT_FILE="/home/ankiz/Documents/mygit/airflow_job_trigger/example_2/example_2
 echo "Script execution started at: $(date)" >> $OUTPUT_FILE
 
 # Activate the virtual environment and run the Python script, then append the output or error to the output file
-$VENV_PATH $SCRIPT_PATH >> $OUTPUT_FILE 2>&1
+$VENV_PATH $SCRIPT_PATH #>> $OUTPUT_FILE 2>&1
 
 # Write the time of script completion to the output file
 echo "Script execution completed at: $(date)" >> $OUTPUT_FILE

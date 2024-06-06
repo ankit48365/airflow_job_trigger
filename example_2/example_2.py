@@ -4,10 +4,6 @@ import os
 # echo 'export msg_local_variable="example2 - this message comes via local variable on system"' >> ~/.bashrc
 
 message= os.environ['msg_local_variable']
-
 # Print the value associated with the key 'message'
 print(message)
-
-
-
-
+# print('hello there, this is test')
