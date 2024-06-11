@@ -1,5 +1,5 @@
 <img alt="GitHub branch check runs" src="https://img.shields.io/github/check-runs/ankit48365/airflow_job_trigger/main">
-[!Workflow Status](https://github.com/ankit48365/airflow_job_trigger/actions/workflows/python-app.yml/badge.svg)
+https://github.com/ankit48365/airflow_job_trigger/actions/workflows/python-app.yml/badge.svg
 
 <h2>airflow_job_trigger - Steps and Pre-requisites</h2>
 <p>Examples on showing how to trigger Python code from Airflow:</p>
