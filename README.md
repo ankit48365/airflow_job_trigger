@@ -1,5 +1,11 @@
 <img alt="GitHub branch check runs" src="https://img.shields.io/github/check-runs/ankit48365/airflow_job_trigger/main">
 
+![GitHub branch check runs](https://img.shields.io/github/check-runs/ankit48365/airflow_job_trigger/main)
+
+https://img.shields.io/github/check-runs/ankit48365/airflow_job_trigger/main
+
+
+
 <h2>airflow_job_trigger - Steps and Pre-requisites</h2>
 <p>Examples on showing how to trigger Python code from Airflow:</p>
 
