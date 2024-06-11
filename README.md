@@ -1,4 +1,3 @@
-<img alt="GitHub branch check runs" src="https://img.shields.io/github/check-runs/ankit48365/airflow_job_trigger/main">
 <img alt="GitHub Actions Workflow Status" src="https://github.com/ankit48365/airflow_job_trigger/actions/workflows/python-app.yml/badge.svg">
 
 
